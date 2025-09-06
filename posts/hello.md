@@ -4,5 +4,5 @@
     slug: "hello"
     ---
     
-    {"ok":zxcvzxcvzxcvxzcv,"content":""}
+    hahaha
     
