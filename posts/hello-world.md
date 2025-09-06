@@ -4,5 +4,5 @@
     slug: "hello-world"
     ---
     
-    My first article
+    My test article
     
